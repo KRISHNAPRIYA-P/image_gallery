@@ -1,7 +1,5 @@
 .images{
-    /* width: 450px;
-    height:300px;*/
-     display: flex;
+    display: flex;
     flex-wrap: wrap; 
     justify-content: center; 
     justify-content: space-around;
